@@ -1,4 +1,4 @@
-![Header](./header-image-new.png)
+![Header](./images/header-image.png)
 
 <!-- <h1 align="center">Hi 👋, I'm Sahan Harshajith</h1>
 <h3 align="center">Committed IT Student | Passionately Unveiling the Future of Technology</h3> -->
@@ -16,7 +16,11 @@
 
 - 📫 How to reach me *sahanharshajith02@gmail.com*
 
-
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
+  <code><a href=" " title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+</h5>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
