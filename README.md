@@ -1,4 +1,4 @@
-![Header](./header-image.png)
+![Header](./header-image-new.png)
 
 <!-- <h1 align="center">Hi 👋, I'm Sahan Harshajith</h1>
 <h3 align="center">Committed IT Student | Passionately Unveiling the Future of Technology</h3> -->
