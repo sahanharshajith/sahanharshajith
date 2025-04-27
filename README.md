@@ -5,7 +5,7 @@
 
 </br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&pause=1000&color=6344F7&width=500&lines=Hi%2C+I%E2%80%99m+Sahan+Harshajith+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I%E2%80%99m+a+Software+Developer+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&pause=1000&color=61dafb&width=500&lines=Hi%2C+I%E2%80%99m+Sahan+Harshajith+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I%E2%80%99m+a+Software+Developer+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ---
 
@@ -72,20 +72,25 @@
 
 ---
 
-<h3 align="center">My Statistics:</h3>
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=sahanharshajith&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sahanharshajith&theme=dark&hide_border=false" /> 
-</td>
-<td width="50%" align="center">
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=sahanharshajith&theme=react&border=61dafb&hide_border=true" alt="sahanharshajith" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=sahanharshajith&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahanharshajith&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    </a>
+  </div>
+  <br>
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sahanharshajith&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahanharshajith&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+
