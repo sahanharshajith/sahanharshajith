@@ -3,6 +3,7 @@
 <!-- <h1 align="center">Hi 👋, I'm Sahan Harshajith</h1>
 <h3 align="center">Committed IT Student | Passionately Unveiling the Future of Technology</h3> -->
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&pause=1000&width=500&lines=Hi%2C+I%E2%80%99m+Sahan+Harshajith+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I%E2%80%99m+a+Software+Developer+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ---
 
