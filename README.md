@@ -9,16 +9,13 @@
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishmibulathsinhala&label=Profile%20views&color=0e75b6&style=flat" alt="vishmibulathsinhala" /> </p>
-
-
 - 🌱 I’m currently studying *at university of Moratuwa.*
 
 - 📫 How to reach me *sahanharshajith02@gmail.com*
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://www.linkedin.com/in/sahan-harshajith" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/profile/sahan_harshajith" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
   <code><a href=" " title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 
