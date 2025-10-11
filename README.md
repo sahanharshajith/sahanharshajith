@@ -1,93 +1,86 @@
 ![Header](./images/header-image.png)
 
-<!-- <h1 align="center">Hi 👋, I'm Sahan Harshajith</h1>
-<h3 align="center">Committed IT Student | Passionately Unveiling the Future of Technology</h3> -->
-
-</br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&pause=1000&color=61dafb&width=500&lines=Hi%2C+I%E2%80%99m+Sahan+Harshajith+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I%E2%80%99m+a+Software+Developer+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&pause=1000&color=61dafb&width=700&lines=Hi%2C+I%E2%80%99m+Sahan+Harshajith+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Software+Developer+%26+ML+Enthusiast+%F0%9F%A4%96;Exploring+AI%2C+Data+Science%2C+and+Innovation!)](https://git.io/typing-svg)
 
 ---
 
-- 🌱 I’m currently studying *at university of Moratuwa.*
+### 👋 About Me
 
-- 📫 How to reach me *sahanharshajith02@gmail.com*
+- 🎓 I’m currently studying at **University of Moratuwa**.  
+- 🤖 Passionate about **Machine Learning**, **Artificial Intelligence**, and **Data Science**.  
+- 💡 I love exploring how **data-driven insights** can shape real-world solutions.  
+- 🌱 Currently learning **Deep Learning**, **Azure AI**, and **MLOps**.  
+- 🧩 Interested in **AI-driven systems**, **Data Analytics Dashboards**, and **Cloud-based AI applications**.  
+- 📫 Reach me at **sahanharshajith02@gmail.com**  
+
+---
+
+### 🌐 Connect with Me
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/sahan-harshajith" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/profile/sahan_harshajith" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href=" " title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="#" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://github.com/sahanharshajith" title="GitHub Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"> GitHub</a></code>
 </h5>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://dart.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  </a>
-</p>
-<p align="left">
-<br/>
 
 ---
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=sahanharshajith&theme=react&border=61dafb&hide_border=true" alt="sahanharshajith" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=sahanharshajith&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahanharshajith&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
-  </div>
-  <br>
+### 🧠 Languages and Tools
 
+<p align="center">
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40"/></a>
+  <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40"/></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40"/></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/></a>
+  <a href="https://www.reactjs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40"/></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40"/></a>
+  <a href="https://flutter.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40"/></a>
+  <a href="https://dart.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40"/></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40"/></a>
+  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40"/></a>
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+- 🧩 **AI-Driven NL2SQL Dashboard** – Convert natural language queries into SQL using Azure Foundry AI.  
+- 🧠 **Smart Ripeness Quality System** – ML-based fruit ripeness and quality prediction using sensor data.  
+- 📊 **Sales Analytics Dashboard** – Real-time visualization and data summarization system using React + Node.js.  
+- 🤖 **ML Model Playground** – Experimentation space for machine learning and data science models.  
+
+> Check out more projects at [**github.com/sahanharshajith?tab=repositories**](https://github.com/sahanharshajith?tab=repositories)
+
+---
+
+### ⚡ GitHub Stats
+
+<p align="center">
+  <img width="390" src="https://streak-stats.demolab.com/?user=sahanharshajith&theme=react&border=61dafb&hide_border=true" alt="GitHub Streak"/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=sahanharshajith&show_icons=true&theme=react&hide_border=true&border_color=61dafb" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahanharshajith&layout=compact&theme=react&hide_border=true&border_color=61dafb" alt="Top Languages"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahanharshajith&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
+---
+
+### 💬 Quote
+
+> *"Turning data into knowledge, and knowledge into impact."*  
+
+---
+
+⭐ **Thanks for visiting!** Don’t forget to check out my repositories and follow me for updates 🚀  
