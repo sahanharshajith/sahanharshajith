@@ -9,8 +9,7 @@
 - 🎓 I’m currently studying at **University of Moratuwa**.  
 - 🤖 Passionate about **Machine Learning** and **Data Science**.  
 - 🌱 Currently learning **Machine Learning algorithms**, **data analysis**, and **data preprocessing**.  
-- 💡 I love transforming **raw data into intelligent insights** through AI and analytics.  
-- ☁️ Exploring **Azure AI**, **cloud-based ML systems**, and **MLOps workflows**.  
+- 💡 I love transforming **raw data into intelligent insights** through AI and analytics.   
 - 📫 Reach me at **sahanharshajith02@gmail.com**
 
 ---
