@@ -54,9 +54,7 @@
   <img src="https://img.shields.io/badge/🤖%20Machine%20Learning-blue?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/📊%20Data%20Analysis-brightgreen?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/📈%20Data%20Visualization-orange?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/☁️%20Cloud%20AI%20(Azure)-blueviolet?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/💬%20AI%20Chatbots-teal?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/🧠%20AI%20Research-gray?style=for-the-badge&logo=pytorch&logoColor=white"/>
 </p>
 
 <p align="center">
