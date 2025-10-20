@@ -1,6 +1,6 @@
 ![Header](./images/header-image.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&pause=1000&color=61dafb&width=700&lines=Hi%2C+I%E2%80%99m+Sahan+Harshajith+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Software+Developer+%26+AI+Enthusiast+%F0%9F%A4%96;Exploring+Data%2C+Machine+Learning+%26+Innovation!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&pause=1000&color=61dafb&width=700&lines=Hi%2C+I%E2%80%99m+Sahan+Harshajith+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Software+Developer+%26+Data+Science+Enthusiast+%F0%9F%A4%96;Exploring+Data%2C+Machine+Learning+%26+Innovation!)](https://git.io/typing-svg)
 
 ---
 
@@ -8,7 +8,7 @@
 
 - 🎓 I’m currently studying at **University of Moratuwa**.  
 - 🤖 Passionate about **Machine Learning** and **Data Science**.  
-- 🌱 Currently learning **Machine Learning algorithms**, **data analysis**, and **data preprocessing**.  
+- 🌱 Currently learning **Machine Learning algorithms**, **data analysis & visualizations**, and **data preprocessing**.  
 - 💡 I love transforming **raw data into intelligent insights** through AI and analytics.   
 - 📫 Reach me at **sahanharshajith02@gmail.com**
 
@@ -77,13 +77,5 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahanharshajith&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-
----
-
-### 💬 Quote
-
-> *"Turning data into knowledge, and knowledge into impact."*  
-
----
 
 ⭐ **Thanks for visiting!** Keep exploring, keep learning, and keep building 🚀
