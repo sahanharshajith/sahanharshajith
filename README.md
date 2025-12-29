@@ -42,14 +42,9 @@ I'm a student at the **University of Moratuwa** with a passion for Machine Learn
 
 ### ⚡ GitHub Stats
 
-<p align="center">
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=sahanharshajith&theme=react&border=61dafb&hide_border=true" alt="GitHub Streak"/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=sahanharshajith&show_icons=true&theme=react&hide_border=true&border_color=61dafb" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahanharshajith&layout=compact&theme=react&hide_border=true&border_color=61dafb" alt="Top Languages"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=sahanharshajith&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sahanharshajith&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahanharshajith&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahanharshajith&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
