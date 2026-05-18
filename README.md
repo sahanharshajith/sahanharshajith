@@ -4,22 +4,12 @@
 
 ## About Me
 
-Hi, I'm **Sahan Harshajith Wijesinghe**, an IT undergraduate at University of Moratuwa who is passionate about building meaningful digital solutions and solving real-world problems through innovative thinking.
-
-I’m particularly interested in **Data Science** and **Machine Learning**, exploring how data and intelligent systems can be used to uncover insights and support better decision-making.
-
-I enjoy turning ideas into practical projects while continuously learning, improving my problem-solving skills, and exploring new opportunities to grow as a developer.
+I’m **Sahan Harshajith Wijesinghe**, an IT undergraduate at the University of Moratuwa passionate about technology and problem-solving. I’m interested in Data Science and Machine Learning and enjoy building practical digital solutions.
 
 **Currently Learning:**
-- Machine Learning algorithms
+- Machine Learning & Data Science
 - Data analysis & visualization techniques
 - Data preprocessing and feature engineering
-
----
-
-## Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahan-harshajith)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sahanharshajith02@gmail.com)
 
 ---
 
@@ -35,12 +25,9 @@ I enjoy turning ideas into practical projects while continuously learning, impro
 
 ---
 
-## Focus Areas
-
-- Machine Learning & Data Science
-- Data Analysis & Statistical Modeling
-- Data Visualization
-- AI-Powered Applications
+## Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahan-harshajith)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sahanharshajith02@gmail.com)
 
 ---
 
