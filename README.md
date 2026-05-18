@@ -4,7 +4,11 @@
 
 ## About Me
 
-I'm a student at the **University of Moratuwa** with a passion for Machine Learning and Data Science. I focus on transforming raw data into actionable insights through AI and advanced analytics.
+Hi, I'm **Sahan Harshajith Wijesinghe**, an IT undergraduate at University of Moratuwa who is passionate about building meaningful digital solutions and solving real-world problems through innovative thinking.
+
+I’m particularly interested in **Data Science** and **Machine Learning**, exploring how data and intelligent systems can be used to uncover insights and support better decision-making.
+
+I enjoy turning ideas into practical projects while continuously learning, improving my problem-solving skills, and exploring new opportunities to grow as a developer.
 
 **Currently Learning:**
 - Machine Learning algorithms
@@ -25,8 +29,8 @@ I'm a student at the **University of Moratuwa** with a passion for Machine Learn
 |----------|-------------|
 | **Programming Languages** | Python, C, Java, JavaScript, TypeScript, PHP |
 | **Data Science & ML** | Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch |
-| **Web Development** | FastAPI, React, Next.js, Node.js, HTML5, CSS3 |
-| **Databases** | MySQL, PostgreSQL, MongoDB |
+| **Web Development** | FastAPI, React, Next.js, Node.js, HTML5, CSS3, Tailwind CSS |
+| **Databases** | MSSQL, MySQL, PostgreSQL, MongoDB |
 | **Other** | Flutter, Dart, Arduino |
 
 ---
