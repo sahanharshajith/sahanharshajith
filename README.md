@@ -4,17 +4,22 @@
 
 ## About Me
 
-I’m **Sahan Harshajith**, a Full Stack Developer passionate about building modern, data-driven software and exploring the intersection of **full-stack development, data, machine learning, and artificial intelligence**.
+I’m **Sahan Harshajith**, an IT undergraduate at the **University of Moratuwa** and a **Full Stack Developer** with experience building modern web applications and data-driven software solutions.
 
-I enjoy understanding how data moves through systems, transforming it into meaningful insights, and integrating intelligent technologies into real-world applications. From building scalable web platforms to experimenting with data pipelines, analytics, ML models, and AI-powered features, I enjoy **learning by building**.
+I enjoy designing practical systems across the frontend and backend, developing scalable applications, and turning ideas into reliable solutions for real-world problems. I’m particularly interested in understanding how data moves through systems, how it can be transformed into meaningful insights, and how intelligent technologies can be integrated into real-world applications.
+
+My growing focus is on **Data Engineering, Data Science, Machine Learning, and Artificial Intelligence**. I enjoy working with data and building **ETL/ELT pipelines, data warehouses, data processing workflows, and analytics solutions**, while also exploring machine learning models and AI-powered applications.
+
+Through hands-on projects and experimentation, I’m continuously expanding my knowledge across the software, data, and AI landscape. I enjoy learning new technologies, solving challenging problems, and turning what I learn into practical systems that strengthen both my technical and analytical skills.
 
 **Currently Exploring:**
-- Data Science, Machine Learning & Artificial Intelligence
-- Data pipelines, analytics & data-driven applications
-- AI-powered features and intelligent systems
+- Data Engineering, ETL/ELT & Data Warehousing
+- Data Science, Analytics & Data Processing
+- Machine Learning & Artificial Intelligence
+- AI-powered applications and intelligent systems
 - Scalable full-stack application development
 
-Always learning. Always building. Always exploring what data and technology can make possible.
+**Always learning. Always building. Always exploring what data and technology can make possible.**
 
 ---
 
@@ -46,15 +51,4 @@ Always learning. Always building. Always exploring what data and technology can 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahanharshajith&theme=github_dark" width="100%"/>
 </p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahanharshajith&theme=github_dark" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahanharshajith&theme=github_dark" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahanharshajith&theme=github_dark" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sahanharshajith&theme=github_dark&utcOffset=5.5" width="48%"/>
-</p>
-
 ⭐ **Thanks for visiting!** Keep exploring, keep learning, and keep building 🚀
