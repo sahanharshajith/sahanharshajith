@@ -27,12 +27,14 @@ Through hands-on projects and experimentation, I’m continuously expanding my k
 
 | Category | Technologies |
 |----------|-------------|
-| **Programming Languages** | Python, JavaScript, TypeScript, Java, C |
+| **Data Engineering** | Apache Spark, PySpark, Apache Airflow, Apache Kafka, Databricks, dbt, Snowflake, BigQuery, ETL/ELT Pipelines, Medallion Architecture, Star Schema, Dimensional Modeling |
+| **Data Science & Machine Learning** | Pandas, NumPy, Scikit-Learn, Jupyter, TensorFlow, PyTorch, Matplotlib, Statistical Analysis, Anomaly Detection |
+| **Artificial Intelligence** | LangChain, OpenAI API, Gemini API, Hugging Face, MCP (Model Context Protocol), RAG (Retrieval-Augmented Generation) |
+| **Programming Languages** | Python, JavaScript, TypeScript, Java, C, Dart |
+| **Database Systems** | Microsoft SQL Server, PostgreSQL, MySQL, MongoDB, Cloud Firestore, Supabase, T-SQL, Stored Procedures, Window Functions |
+| **Backend Development** | Node.js, Express.js, FastAPI, Flask, RESTful API Development, Object-Oriented Programming |
 | **Frontend Development** | Next.js, React, Tailwind CSS, HTML5, CSS3, ShadcnUI, AceternityUI |
-| **Backend Development** | Node.js, Express.js, FastAPI, Flask |
-| **Data Science, ML & AI** | Pandas, NumPy, Scikit-Learn, Jupyter, LangChain |
-| **Databases** | MongoDB, PostgreSQL, MySQL, Firebase, SQL Server, Supabase |
-| **DevOps & Tools** | Git, Docker, Kubernetes, CI/CD, VS Code, Vercel |
+| **DevOps & Cloud** | Git, GitHub, Docker, Kubernetes, AWS, CI/CD, Linux, VS Code, Vercel |
 | **Mobile Development** | Flutter, Dart, Firebase |
 | **Hardware & IoT** | Arduino, IoT |
 
